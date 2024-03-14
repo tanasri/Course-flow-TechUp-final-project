@@ -1,5 +1,5 @@
 #Course Flow
-<a href="https://courseflow-teal-dn.vercel.app/" </a>
+<a href="https://courseflow-teal-dn.vercel.app/"> Try Course Flow </a>
 
 Final project from techup thailand bootcamp.
 
